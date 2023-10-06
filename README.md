@@ -6,7 +6,7 @@ Pronouns: she/her/hers
 
 ## ✨About Me✨
 
-🔭 I'm a Data Scientist and Astrophysics researcher! My interests include: **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Astroinformatics/Astrostatistics, Computational Astrophysics and Cosmology**
+🔭 My research interests include: **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Astroinformatics/Astrostatistics, Computational Astrophysics and Cosmology**
 
 👩‍🎓 I recently graduated in June 2023 with my M.S. in Engineering: Data Science from the University of Riverside, California
 
@@ -24,7 +24,6 @@ Pronouns: she/her/hers
 
   
 ## 🛠️ Skills
-
 
   ### 👩‍💻 Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
