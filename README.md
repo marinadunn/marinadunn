@@ -1,9 +1,8 @@
-### Hi, I'm Marina! 👋
+# Hi, I'm Marina! 👋
 Pronouns: she/her/hers
 [marinadunn.github.io](https://marinadunn.github.io)
 
 ## ✨About Me✨
-
 - 🔭 My research interests include: **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Astroinformatics/Astrostatistics, Computational Astrophysics and Cosmology**
 - 👩‍🎓 I recently graduated in June 2023 with my M.S. in Engineering: Data Science from the University of Riverside, California
 - 🌌 I received my Bachelor's in Astronomy from the University of Arizona in 2018
@@ -13,7 +12,7 @@ Pronouns: she/her/hers
 - 📍 Hometown and current location: Nashville, TN
 - ✉️ Get in touch: <mdunn014@ucr.edu> (same as <marina.dunn@email.ucr.edu>) or <astromarinadunn@gmail.com>
   
-## 🛠️ Some Skills:
+## 🛠️ Skills
 
   ### 👩‍💻 Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
