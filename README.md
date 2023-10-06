@@ -13,8 +13,10 @@ Pronouns: she/her/hers
 - 🧠 I'm neurodivergent!
 - 📍 Hometown and current location: Nashville, TN
 - ✉️ Get in touch: <mdunn014@ucr.edu> (same as <marina.dunn@email.ucr.edu>) or <astromarinadunn@gmail.com>
+
   
 ## 🛠️ Skills
+
 
   ### 👩‍💻 Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +25,7 @@ Pronouns: she/her/hers
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
   ### 📈 Artificial Intelligence/Machine Learning/Deep Learning (AI/ML/DL)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -35,10 +38,12 @@ Pronouns: she/her/hers
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
+
   ### ⚙️ Version Control
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
   ### 📚 Frameworks, Platforms and Libraries
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
