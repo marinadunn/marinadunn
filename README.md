@@ -5,14 +5,22 @@ Pronouns: she/her/hers
 [marinadunn.github.io](https://marinadunn.github.io)
 
 ## ✨About Me✨
-- 🔭 My research interests include: **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Astroinformatics/Astrostatistics, Computational Astrophysics and Cosmology**
-- 👩‍🎓 I recently graduated in June 2023 with my M.S. in Engineering: Data Science from the University of Riverside, California
-- 🌌 I received my Bachelor's in Astronomy from the University of Arizona in 2018
-- 🚀 I've previously worked at NASA Goddard Space Flight Center, NASA Langley Research Center, Lawrence Livermore National Laboratory, Apple, and the University of Arizona
-- 🔍 I’m currently seeking full-time AI/ML/Data Science opportunities, as well as PhD positions beginning in 2024!
-- 🧠 I'm neurodivergent!
-- 📍 Hometown and current location: Nashville, TN
-- ✉️ Get in touch: <mdunn014@ucr.edu> (same as <marina.dunn@email.ucr.edu>) or <astromarinadunn@gmail.com>
+
+🔭 I'm a Data Scientist and Astrophysics researcher! My interests include: **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Astroinformatics/Astrostatistics, Computational Astrophysics and Cosmology**
+
+👩‍🎓 I recently graduated in June 2023 with my M.S. in Engineering: Data Science from the University of Riverside, California
+
+🌌 I received my Bachelor's in Astronomy from the University of Arizona in 2018
+
+🚀 I've previously worked at NASA Goddard Space Flight Center, NASA Langley Research Center, Lawrence Livermore National Laboratory, Apple, and the University of Arizona
+
+🔍 I’m currently seeking full-time AI/ML/Data Science opportunities, as well as PhD positions beginning in 2024!
+
+🧠 I'm neurodivergent!
+
+📍 Hometown and current location: Nashville, TN
+
+✉️ Get in touch: <mdunn014@ucr.edu> (same as <marina.dunn@email.ucr.edu>) or <astromarinadunn@gmail.com>
 
   
 ## 🛠️ Skills
