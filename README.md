@@ -6,7 +6,7 @@ Pronouns: she/her/hers
 
 ## ✨About Me✨
 
-🔭 My research interests include: **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Astroinformatics/Astrostatistics, Computational Astrophysics and Cosmology**
+🔭 My research interests include: **Data Science, Deep Learning, and Computer Vision and applying these to Astrophysics research**
 
 👩‍🎓 I recently graduated in June 2023 with my M.S. in Engineering: Data Science from the University of Riverside, California
 
