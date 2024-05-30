@@ -6,7 +6,9 @@ Pronouns: she/her/hers
 
 ## ✨About Me✨
 
-🔭 My research interests include: **Data Science, Deep Learning, and Computer Vision and applying these to Astrophysics research**
+🔭 My research interests include: **Data Science and Deep Learning for Astrophysics research**
+
+👩‍💻 Starting in September 2024, I will begin my role as a Junior Scientist (Astrophysics PhD Candidate) at the Instituto de Astrofísica de Canarias (IAC) in Tenerife, Spain!
 
 👩‍🎓 I recently graduated in June 2023 with my M.S. in Engineering: Data Science from the University of Riverside, California
 
@@ -14,11 +16,9 @@ Pronouns: she/her/hers
 
 🚀 I've previously worked at NASA Goddard Space Flight Center, NASA Langley Research Center, Lawrence Livermore National Laboratory, Apple, and the University of Arizona
 
-🔍 I’m currently seeking full-time AI/ML/Data Science opportunities, as well as PhD positions beginning in 2024!
+🧠 I am proudly neurodivergent!
 
-🧠 I'm neurodivergent!
-
-📍 Hometown and current location: Nashville, TN
+📍 Hometown: Nashville, TN, USA
 
 ✉️ Get in touch: <mdunn014@ucr.edu> (same as <marina.dunn@email.ucr.edu>) or <astromarinadunn@gmail.com>
 
