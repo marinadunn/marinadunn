@@ -6,9 +6,9 @@ Pronouns: she/her/hers
 
 ## ✨About Me✨
 
-🔭 My research interests include: **Data Science and Deep Learning for Astrophysics research**
+🔭 My research focuses on **Deep Learning for Galaxy Morphology Classification** as part of the new EU-funded [EDUCADO](https://research.iac.es/proyecto/educado/) program.
 
-👩‍💻 Starting in September 2024, I will begin my role as a Junior Scientist (Astrophysics PhD Candidate) at the Instituto de Astrofísica de Canarias (IAC) in Tenerife, Spain!
+👩‍💻 I currently work as an Astrophysics PhD Candidate at the Instituto de Astrofísica de Canarias (IAC) in Tenerife, Spain!
 
 👩‍🎓 I recently graduated in June 2023 with my M.S. in Engineering: Data Science from the University of Riverside, California
 
