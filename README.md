@@ -20,7 +20,7 @@ Pronouns: she/her/hers
 
 📍 Hometown: Nashville, TN, USA
 
-✉️ Get in touch: <mdunn014@ucr.edu> (same as <marina.dunn@email.ucr.edu>) or <astromarinadunn@gmail.com>
+✉️ Get in touch: <marina.dunn@iac.es>
 
   
 ## 🛠️ Skills
