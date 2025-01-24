@@ -1,24 +1,22 @@
 # Hi, I'm Marina! 👋
-Pronouns: she/her/hers
+Pronouns: she/her/hers/ella
 
 
 [marinadunn.github.io](https://marinadunn.github.io)
 
 ## ✨About Me✨
 
-🔭 My research focuses on **Deep Learning for Galaxy Morphology Classification** as part of the new EU-funded [EDUCADO](https://research.iac.es/proyecto/educado/) program.
+👩‍💻 I currently work as an Astrophysics PhD Candidate at the Instituto de Astrofísica de Canarias (IAC) in Tenerife, Spain as part of the [EDUCADO](https://research.iac.es/proyecto/educado/) doctoral network.
 
-👩‍💻 I currently work as an Astrophysics PhD Candidate at the Instituto de Astrofísica de Canarias (IAC) in Tenerife, Spain!
+🌌 My research focuses on **Deep Learning for Galaxy Formation and Evolution**, specifically using these methods to characterize morphologies of dwarf galaxies in massive datasets like Euclid and eventually LSST.
 
-👩‍🎓 I recently graduated in June 2023 with my M.S. in Engineering: Data Science from the University of Riverside, California
+👩‍🎓 I received my B.S. in Astronomy from the University of Arizona in 2018, and my M.S. in Engineering: Data Science from the University of Riverside, California in 2023.
 
-🌌 I received my Bachelor's in Astronomy from the University of Arizona in 2018
-
-🚀 I've previously worked at NASA Goddard Space Flight Center, NASA Langley Research Center, Lawrence Livermore National Laboratory, Apple, and the University of Arizona
+🚀 I've previously worked at NASA Goddard Space Flight Center and Langley Research Center, Lawrence Livermore National Laboratory, Apple, and the University of Arizona.
 
 🧠 I am proudly neurodivergent!
 
-📍 Hometown: Nashville, TN, USA
+📍 Hometown: Nashville, Tennessee, USA
 
 ✉️ Get in touch: <marina.dunn@iac.es>
 
