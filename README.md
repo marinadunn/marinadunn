@@ -6,9 +6,9 @@ Pronouns: she/her/hers/ella
 
 ## ✨About Me✨
 
-👩‍💻 I currently work as an Astrophysics PhD Candidate at the Instituto de Astrofísica de Canarias (IAC) in Tenerife, Spain as part of the [EDUCADO](https://research.iac.es/proyecto/educado/) doctoral network.
+👩‍💻 I'm currently an Astrophysics PhD Candidate at the Instituto de Astrofísica de Canarias (IAC) in Tenerife, Spain as part of the [EDUCADO](https://research.iac.es/proyecto/educado/) doctoral network.
 
-🌌 My research focuses on **Deep Learning for Galaxy Formation and Evolution**, specifically using these methods to characterize morphologies of dwarf galaxies in massive datasets like Euclid and eventually LSST.
+🌌 My research focuses on developing and applying deep learning techniques to large-scale astrophsyics survey datasets (Euclid, LSST) to study galaxy formation and evolution.
 
 👩‍🎓 I received my B.S. in Astronomy from the University of Arizona in 2018, and my M.S. in Engineering: Data Science from the University of Riverside, California in 2023.
 
@@ -18,7 +18,7 @@ Pronouns: she/her/hers/ella
 
 📍 Hometown: Nashville, Tennessee, USA
 
-✉️ Get in touch: <marina.dunn@iac.es>
+✉️ Get in touch: <marina.dunn@iac.es> (until October 2027) or <m.m.dunn@rug.nl> (anytime)
 
   
 ## 🛠️ Skills
